@@ -2,4 +2,4 @@
 - :computer: I’m interested in **programming**! By that I mean: from the low level (_'to the metal'_) C/C++ stuff, to a web/desktop app development.
 - :earth_africa: Besides programming, I enjoy **traveling**, reading **manga**, having a nice **craft beer**, and other usual non-geeky activities :grin:
 - :books: Currently, I'm also learning about **Machine learning** - both the mathematical and practical side of it.
-- Also, I've receantly made my first **Medium** story! [Check it out](https://bornagajic.medium.com/persist-your-complex-map-object-with-mobx-persist-store-8530deb017aa) 📝
+- 📝 Also, I've receantly made my first **Medium** story! [Check it out](https://bornagajic.medium.com/persist-your-complex-map-object-with-mobx-persist-store-8530deb017aa)
