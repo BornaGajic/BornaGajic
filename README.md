@@ -3,3 +3,4 @@
 - :books: Besides that I'm learning about **Machine learning** - both the mathematical and practical side of it.
 - :earth_africa: I enjoy **traveling**, reading **manga**, having a nice **craft beer**, and other usual non-geeky activities :grin:
 - 📝 Also, I've recently wrote my first **Medium** story! [Check it out](https://bornagajic.medium.com/persist-your-complex-map-object-with-mobx-persist-store-8530deb017aa)
+- 🎵 You can also browse through songs in my [Spotify playlists](https://open.spotify.com/user/31hwutbkwuvw4w464h6kml2w5thy?si=a5df961c7bf54dda).
