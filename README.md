@@ -1,10 +1,10 @@
 - 👋 Hi! I’m **@BornaGajic**, a graduate student at the Department of Mathematics, Osijek - **Math** & **Computer science** program.
 - :computer: I’m interested in **programming**! From the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development.
 - 🤖 To this day, I've coded in these languages: 
-  - **C++** (alghoritms, data structures)
-  - **C#** (web, desktop)
-  - **JavaScript** (React, Angular)
-  - **Python** (Scikit-learn, PyTorch, Tensor Flow)
+  - **C++** (alghoritms, data structures) <sub><sup>/Bits-and-pieces</sup></sub>
+  - **C#** (web, desktop) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron</sup></sub>
+  - **JavaScript** (React, Angular) <sub><sup>/Bits-and-pieces, /Devbazaar</sup></sub>
+  - **Python** (Scikit-learn, PyTorch, Tensor Flow) <sub><sup>/Bits-and-pieces</sup></sub>
 - :books: Besides that I'm learning about **Machine learning** - both the mathematical and practical side of it.
 - :earth_africa: I enjoy **traveling**, reading **manga**, having a nice **craft beer**, and other usual non-geeky activities :grin:
 - 📝 Also, I've recently wrote my first **Medium** story! [Check it out](https://bornagajic.medium.com/persist-your-complex-map-object-with-mobx-persist-store-8530deb017aa)
