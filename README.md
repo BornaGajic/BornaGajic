@@ -1,9 +1,10 @@
 - 👋 Hi! I’m **@BornaGajic**, a graduate student at the Department of Mathematics, Osijek - **Math** & **Computer science** program
 - :computer: I’m interested in **programming**! From the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development
-- 🤖 To this day, I've coded in these languages: 
+- 🤖 So far, I've coded in these languages: 
   - **C++** (alghoritms, data structures) <sub><sup>/Bits-and-pieces</sup></sub>
   - **C#** (web, desktop) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron</sup></sub>
   - **JavaScript** (React, Angular) <sub><sup>/Bits-and-pieces, /Devbazaar</sup></sub>
+  - **Dart** (Flutter) <sub><sup>/Bits-and-pieces </sup></sub>
   - **Python** (Scikit-learn, PyTorch, TensorFlow, SciPy, NumPy) <sub><sup>/Bits-and-pieces, /FAQ-Mathos-Chatbot</sup></sub>
 - :books: Besides that I'm learning about **Machine learning** - both the mathematical and practical side of it
 - :earth_africa: I enjoy **traveling**, reading **manga**, having a nice **craft beer**, and other usual non-geeky activities :grin:
