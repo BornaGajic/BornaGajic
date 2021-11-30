@@ -2,7 +2,7 @@
 - :computer: I’m interested in **programming**! From the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development
 - 🤖 So far, I've coded in these languages: 
   - **C++** (alghoritms, data structures) <sub><sup>/Bits-and-pieces</sup></sub>
-  - **C#** (web, desktop, socket, COM) <sub><sup>/Bits-and-pieces, /Devbazaar, /doc-fill-tool, /Chat-o-Tron</sup></sub>
+  - **C#** (web, desktop, socket, COM) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron, /doc-fill-tool</sup></sub>
   - **JavaScript** (React, Angular) <sub><sup>/Bits-and-pieces, /Devbazaar</sup></sub>
   - **Python** (Scikit-learn, PyTorch, TensorFlow, SciPy, NumPy) <sub><sup>/Bits-and-pieces, /FAQ-Mathos-Chatbot</sup></sub>
 - :books: Besides that I'm learning about **Machine learning** - both the mathematical and practical side of it
