@@ -1,5 +1,5 @@
 - 👋 Hi! I’m **@BornaGajic**, a graduate student at the Department of Mathematics, Osijek - **Math** & **Computer science** program
-- :computer: I’m interested in **programming**! From the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development
+- :computer: I love to work on everything from the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development
 - 🤖 So far, I've coded in these languages (sorted by preference): 
   - **C#** (web, desktop, socket, COM) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron, /doc-fill-tool</sup></sub>
   - **C++** (alghoritms, data structures) <sub><sup>/Bits-and-pieces</sup></sub>
