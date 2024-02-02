@@ -1,12 +1,12 @@
 - 👋 Hi! I’m **@BornaGajic**, a graduate student at the Department of Mathematics, Osijek - **Math** & **Computer science** program
 - :computer: I love to work on everything from the low-level (_'to the metal'_) C/C++ stuff to a web/desktop app development
 - 🤖 So far, I've coded in these languages: 
-  - **C#** (web, desktop, socket, COM) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron, /doc-fill-tool, /process-worker</sup></sub>
-  - **C++** (alghoritms, data structures) <sub><sup>/Bits-and-pieces</sup></sub>
+  - **C#** (.net, desktop, network, COM) <sub><sup>/Bits-and-pieces, /Devbazaar, /Chat-o-Tron, /doc-fill-tool, /process-worker</sup></sub>
+  - **C++** (algorithms, data structures, graphic) <sub><sup>/Bits-and-pieces</sup></sub>
   - **JavaScript** (Angular, AngularJS, React) <sub><sup>/Bits-and-pieces, /Devbazaar</sup></sub>
   - **Python** (Scikit-learn, PyTorch, TensorFlow, SciPy, NumPy) <sub><sup>/Bits-and-pieces, /FAQ-Mathos-Chatbot</sup></sub>
   - **SQL** (MSSQL)
-  - **DAX** (MS Analysis Services)
+  - **DAX** (MS Analysis Services) 
 - :books: Besides that I'm learning about **Machine learning** - both the mathematical and practical side of it
 - :earth_africa: I enjoy **traveling**, reading **manga**, having a nice **craft beer**, and other usual non-geeky activities :grin:
 - 📝 [Blogs](https://linktr.ee/borna.gajic)!
